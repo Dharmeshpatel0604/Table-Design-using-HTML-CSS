@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+}
+body {
+    background-image: linear-gradient(
+        to bottom right, #FF77CC, #e91a9a, #a81ae0, hsl(290, 98%, 50%));
+}
+
+
+table.center {
+    width: 75%;
+border-collapse: collapse;
+margin-right: auto;
+margin-left: auto;
+margin-top: 66px;
+}
+ th, td {
+    background-color:rgb(65, 218, 159);
+    padding: 20px;
+    color: whitesmoke;
+    border-bottom: 0.2px solid rgb(96, 231, 168);
+    text-align: center;  
+    font-family: Helvetica, sans-serif;
+ }
